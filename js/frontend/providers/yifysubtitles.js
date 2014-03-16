@@ -24,6 +24,7 @@ var request = require('request'),
         'finnish'   : 'Suomi',
         'latvian'   : 'Latviski',
         'maltese'   : 'maltese',
+        'sinhalese' : 'සිංහල',
         'bulgarian' : 'Български'    };
 
 var findSubtitle = function (imdbId, cb) {
